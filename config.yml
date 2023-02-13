@@ -1,0 +1,5 @@
+nick: joojn
+url: https://czech-craft.eu/server/beegames-eu-9436/vote/
+extensionPath: /path/to/Buster # path to Buster extension folder (folder contains manifest.json etc.)
+interval: 122 # in minutes
+browserPath: /opt/microsoft/msedge/msedge # iam using edge, but you can use any browser you want
